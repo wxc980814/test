@@ -6,5 +6,5 @@ int main()
     int *p = q;
     printf("%d\n",*p);
     printf("%d\n",*++p);
-    return 0; //20220912
+    return 0;
 }
